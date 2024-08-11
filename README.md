@@ -18,6 +18,11 @@ Tabla de Contenidos
 
 -Ver Portada y Detalles: Muestra la portada y los detalles del libro seleccionado.
 
+![image](https://github.com/user-attachments/assets/f55d66bb-d6b4-45e1-8a6a-fdf3f40299f0)
+
+![image](https://github.com/user-attachments/assets/638e8a21-6d43-413e-853c-a779c3ce977d)
+
+
 ![image](https://github.com/user-attachments/assets/d5058896-fdc4-4117-acf4-d047d5cf1201)
 
 
@@ -85,6 +90,14 @@ cn.ConnectionString = "Provider=SQLOLEDB;Data Source=MegaServer;Initial Catalog=
 -Ver Portada y Detalles: Selecciona un libro y haz clic en "Ver Portada y Detalles" para ver más información.
 
 ![image](https://github.com/user-attachments/assets/e38e91a9-ac78-430d-8016-9d9ca18c97d5)
+
+
+
+# Problemas presentados
+
+-Entender el funcionamiento de Visual Basic
+
+-Crear la conexión a la base de datos
 
 
 
