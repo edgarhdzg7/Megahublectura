@@ -99,5 +99,6 @@ cn.ConnectionString = "Provider=SQLOLEDB;Data Source=MegaServer;Initial Catalog=
 
 -Crear la conexión a la base de datos
 
+![image](https://github.com/user-attachments/assets/c8535abc-6c03-4e34-885a-f4ab30373ed5)
 
 
